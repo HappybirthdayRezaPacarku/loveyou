@@ -29,7 +29,7 @@ body {
 }
 
 .one {
-  font-size: 4.5rem;
+  font-size: 2rem;
 }
 
 .two {
@@ -38,7 +38,7 @@ body {
 }
 
 .three {
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 .four .text-box {
@@ -83,7 +83,7 @@ body {
 }
 
 .five .idea-5 {
-  font-size: 4rem;
+  font-size: 2rem;
 }
 
 .idea-5 span, .idea-6 span, .wish-hbd span {
@@ -91,7 +91,7 @@ body {
 }
 
 .idea-6 span{
-  font-size: 15rem;
+  font-size: 2rem;
 }
 
 
@@ -204,7 +204,7 @@ body {
 }
 
 .wish-hbd {
-  font-size: 3em;
+  font-size: 3rem;
   margin: 0;
   text-transform: uppercase;
 }
