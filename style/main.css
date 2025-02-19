@@ -29,16 +29,16 @@ body {
 }
 
 .one {
-  font-size: 0.5rem;
+  font-size: 0.5em;
 }
 
 .two {
-  font-size: 0.5rem;
+  font-size: 0.5em;
   font-weight: lighter;
 }
 
 .three {
-  font-size: 0.5rem;
+  font-size: 0.5em;
 }
 
 .four .text-box {
