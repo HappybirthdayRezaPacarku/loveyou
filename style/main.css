@@ -33,12 +33,12 @@ body {
 }
 
 .two {
-  font-size: 1.2rem;
+  font-size: 2rem;
   font-weight: lighter;
 }
 
 .three {
-  font-size: 1.2em;
+  font-size: 2em;
 }
 
 .four .text-box {
@@ -79,7 +79,7 @@ body {
 .idea-3 strong {
   border-radius: 2rem;
   display: inline-block;
-  padding: 1.8em 2.2em;
+  padding: 1.6em 2em;
 }
 
 .five .idea-5 {
