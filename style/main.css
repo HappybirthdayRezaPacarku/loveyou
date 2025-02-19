@@ -70,20 +70,20 @@ body {
 }
 
 .five p {
-  font-size: 0.5rem;
+  font-size: 2rem;
   left: 0;
   position: absolute;
   right: 0;
 }
 
 .idea-3 strong {
-  border-radius: 1.2em;
+  border-radius: 2rem;
   display: inline-block;
-  padding: 1.2em 2.2em;
+  padding: 1.8em 2.2em;
 }
 
 .five .idea-5 {
-  font-size: 0.5rem;
+  font-size: 2rem;
 }
 
 .idea-5 span, .idea-6 span, .wish-hbd span {
@@ -91,7 +91,7 @@ body {
 }
 
 .idea-6 span{
-  font-size: 0.5rem;
+  font-size: 2rem;
 }
 
 
@@ -204,19 +204,19 @@ body {
 }
 
 .wish-hbd {
-  font-size: 0.5rem;
+  font-size: 2rem;
   margin: 0;
   text-transform: uppercase;
 }
 
 .wish h5 {
-  font-size: 0.5rem;
+  font-size: 2rem;
   font-weight: lighter;
   margin: 10px 0 0;
 }
 
 .nine p {
-  font-size: 0.5rem;
+  font-size: 2rem;
   font-weight: lighter;
 }
 
